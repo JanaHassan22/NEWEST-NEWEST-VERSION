@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/abdoRunningFrames">
+        <file>arun1.png</file>
+        <file>arun2.png</file>
+        <file>arun3.png</file>
+        <file>arun4.png</file>
+        <file>arun5.png</file>
+        <file>arun6.png</file>
+        <file>arun7.png</file>
+        <file>arun8.png</file>
+        <file>arun9.png</file>
+    </qresource>
+    <qresource prefix="/abdoJumpingFrames">
+        <file>ajump1.png</file>
+        <file>ajump2.png</file>
+        <file>ajump3.png</file>
+        <file>ajump4.png</file>
+        <file>ajump5.png</file>
+        <file>ajump6.png</file>
+        <file>ajump7.png</file>
+    </qresource>
+    <qresource prefix="/abdoIdle">
+        <file>trialIdle1.png</file>
+        <file>trialIdle2.png</file>
+    </qresource>
+</RCC>

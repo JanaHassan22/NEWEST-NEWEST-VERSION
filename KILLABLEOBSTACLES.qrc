@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/killableObstacles">
+        <file>BoskaHit.png</file>
+        <file>DanyHit.png</file>
+        <file>JanaIdle.png</file>
+        <file>JSide.png</file>
+        <file>MaroHit.png</file>
+        <file>MohanHit1.png</file>
+        <file>MohanHit2.png</file>
+        <file>WalkA copy.png</file>
+        <file>WalkB.png</file>
+        <file>WalkBoska.png</file>
+        <file>WalkC.png</file>
+        <file>WalkDany.png</file>
+        <file>WalkJ.png</file>
+        <file>WalkMaro.png</file>
+        <file>WalkMohan.png</file>
+    </qresource>
+</RCC>

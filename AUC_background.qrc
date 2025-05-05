@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/auc_Background">
+        <file>Backgrounduni.png</file>
+    </qresource>
+</RCC>

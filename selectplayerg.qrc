@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/playersSelect">
+        <file>gannaHijabiGirl.png</file>
+        <file>AbdoGuy.png</file>
+    </qresource>
+</RCC>

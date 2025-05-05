@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>PlayScreen</class>
+ <widget class="QWidget" name="PlayScreen">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>822</width>
+    <height>679</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QPushButton" name="playButton">
+   <property name="geometry">
+    <rect>
+     <x>-20</x>
+     <y>0</y>
+     <width>851</width>
+     <height>681</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>true</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="PlayWindowBackground.qrc">
+     <normaloff>:/PlayWindowBackground/PlayBackground.jpeg</normaloff>:/PlayWindowBackground/PlayBackground.jpeg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>641</width>
+     <height>1850</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="PlayWindowBackground.qrc"/>
+ </resources>
+ <connections/>
+</ui>

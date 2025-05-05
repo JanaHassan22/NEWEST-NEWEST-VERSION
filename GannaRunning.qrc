@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/GannaRunFrames">
+        <file>IMG_3265-removebg-preview.png</file>
+        <file>IMG_3266-removebg-preview.png</file>
+        <file>IMG_3267-removebg-preview.png</file>
+        <file>IMG_3268-removebg-preview.png</file>
+    </qresource>
+    <qresource prefix="/GannaJump">
+        <file>1GJump.png</file>
+        <file>2Gjump.png</file>
+        <file>3GJump.png</file>
+        <file>4GJump.png</file>
+        <file>5GJump.png</file>
+        <file>6GJump.png</file>
+    </qresource>
+    <qresource prefix="/GannIdle">
+        <file>1GIdle.png</file>
+        <file>2GIdle.png</file>
+        <file>3Gidle.png</file>
+        <file>4Gidle.png</file>
+        <file>5Gidle.png</file>
+        <file>6Gidle.png</file>
+    </qresource>
+</RCC>
